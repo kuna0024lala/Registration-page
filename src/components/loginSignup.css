@@ -1,0 +1,10 @@
+/* Custom overrides or additional styles if needed */
+
+.input-group-text img {
+    height: 24px;
+    width: 24px;
+}
+
+.text-primary {
+    color: #3c009d !important;
+}
